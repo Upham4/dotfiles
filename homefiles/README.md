@@ -1,6 +1,6 @@
-#Homefiles
+# Homefiles
 
-##Files
+## Files
 
 ### .bash.aliases
 - gs = git status
