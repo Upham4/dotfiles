@@ -48,7 +48,7 @@ This repository contains my personal Linux configuration files and install scrip
 ## How to Use This Repository
 
 ### Clone the repository
-- git clone https://github.com/YOUR_USERNAME/dotfiles.git
+- git clone 
 - cd dotfiles
 
 ### Run Setup Scripts
